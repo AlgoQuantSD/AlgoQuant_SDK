@@ -3,4 +3,4 @@
     "declaration": true,
   },
     "include": ["./lib/**/*.ts", "./lib/**/*.js"]
-  }
+}
