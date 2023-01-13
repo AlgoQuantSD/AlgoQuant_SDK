@@ -1,0 +1,26 @@
+{
+  "name": "algoquant",
+  "version": "1.3.0",
+  "description": "The SDK for AlgoQuant",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlgoQuantSD/AlgoQuant_SDK.git"
+  },
+  "keywords": [
+    "AlgoQuant",
+    "SDK"
+  ],
+  "author": "Ryan Pattillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlgoQuantSD/AlgoQuant_SDK/issues"
+  },
+  "homepage": "https://github.com/AlgoQuantSD/AlgoQuant_SDK#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
