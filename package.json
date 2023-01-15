@@ -1,6 +1,6 @@
 {
   "name": "algoquant",
-  "version": "2.3.0",
+  "version": "1.0.0",
   "description": "The SDK for AlgoQuant",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,10 @@
     "AlgoQuant",
     "SDK"
   ],
-  "authors": ["Ryan Pattillo", "Tim Yang"],
+  "authors": [
+    "Ryan Pattillo",
+    "Tim Yang"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlgoQuantSD/AlgoQuant_SDK/issues"
