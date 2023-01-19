@@ -1,32 +1,22 @@
 # AlgoQuant_SDK
 
-SDK for the project AlgoQuant at UCF for Senior Design 2022-23.
-
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+Node.js SDK for the project AlgoQuant at UCF for Senior Design 2022-23. Currently implemented for internal use only. This SDK contains all the API network request for the endpoints that will be used on the Algoquant Web and Mobile applications. Endpoint logic can be found here on our [Algoquant_Backend repo](https://github.com/AlgoQuantSD/AlgoQuant_Backend).
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://github.com/nvm-sh/nvm) through Node Version Manager to install AlgoQuant.
 
 ```bash
-pip install foobar
+npm install algoquant
 ```
 
 ## Usage
 
-```python
-import foobar
+```javascript
+import Algoquant from "Algoquant";
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+# returns 'user object'
+Algoquant.GetUser(token)
 ```
 
 ## Contributing
@@ -36,6 +26,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## NPM Link
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[NPM package](https://www.npmjs.com/package/algoquant)
