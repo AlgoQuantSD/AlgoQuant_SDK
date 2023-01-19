@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "declaration": true,
+    "declaration": true
   },
-    "include": ["./lib/**/*.ts", "./lib/**/*.js"]
+  "include": ["./lib/**/*.ts", "./lib/**/*.js"]
 }
