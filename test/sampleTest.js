@@ -1,3 +1,5 @@
+// This is a file used for reference when we figure out more with API testing for an SDK
+
 const chai = require("chai");
 const chaiHttp = require("chai-http");
 
@@ -20,3 +22,5 @@ describe("GET /", () => {
       });
   });
 });
+
+describe("Test");
