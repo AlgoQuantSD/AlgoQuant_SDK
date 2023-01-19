@@ -1,0 +1,32 @@
+{
+  "name": "algoquant",
+  "version": "2.9.4",
+  "description": "The SDK for AlgoQuant",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/*.js --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlgoQuantSD/AlgoQuant_SDK.git"
+  },
+  "keywords": [
+    "AlgoQuant",
+    "SDK"
+  ],
+  "authors": [
+    "Ryan Pattillo",
+    "Tim Yang"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlgoQuantSD/AlgoQuant_SDK/issues"
+  },
+  "homepage": "https://github.com/AlgoQuantSD/AlgoQuant_SDK#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.2.0"
+  }
+}
