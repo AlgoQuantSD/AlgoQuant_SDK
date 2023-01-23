@@ -1,6 +1,6 @@
 {
   "name": "algoquant",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "description": "The SDK for AlgoQuant",
   "main": "lib/index.js",
   "scripts": {
